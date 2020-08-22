@@ -1,0 +1,58 @@
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\bin\Debug\_023.简单播放器.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\bin\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\bin\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\bin\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.Form1.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.pdb
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\bin\Debug\_023.简单播放器.exe.config
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\bin\Debug\_023.简单播放器.exe
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\bin\Debug\_023.简单播放器.pdb
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.Form1.resources
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.Properties.Resources.resources
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.exe
+C:\Users\Max Bay\Desktop\Final\十五、基础加强总复习\Music Player\obj\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\bin\Debug\_023.简单播放器.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\bin\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\bin\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\bin\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\_023.简单播放器.Form1.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\_023.简单播放器.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\Music_Player\Music Player\obj\Debug\_023.简单播放器.SplashForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\bin\Debug\_023.简单播放器.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\bin\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\bin\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\bin\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\_023.简单播放器.Form1.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\_023.简单播放器.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\_023.简单播放器.SplashForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\Music_Player\Music Player\obj\Debug\_023.简单播放器.pdb

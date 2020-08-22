@@ -1,0 +1,28 @@
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\bin\Debug\_023.简单播放器.exe.config
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\bin\Debug\_023.简单播放器.exe
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\bin\Debug\_023.简单播放器.pdb
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\bin\Debug\Interop.WMPLib.dll
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\bin\Debug\AxInterop.WMPLib.dll
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\023. 简单播放器.csprojAssemblyReference.cache
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\Interop.WMPLib.dll
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\AxInterop.WMPLib.dll
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\023. 简单播放器.csproj.ResolveComReference.cache
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.Form1.resources
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.Properties.Resources.resources
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\023. 简单播放器.csproj.GenerateResource.cache
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.exe
+D:\学习材料\C语言\我的练习\C#练习\01. C#入门到精通\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\bin\Debug\_023.简单播放器.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\bin\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\bin\Debug\_023.简单播放器.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\bin\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\bin\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\023. 简单播放器.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\Interop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\AxInterop.WMPLib.dll
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\023. 简单播放器.csproj.ResolveComReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.Form1.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\023. 简单播放器.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\十五、基础加强总复习\023. 简单播放器\obj\Debug\_023.简单播放器.pdb
